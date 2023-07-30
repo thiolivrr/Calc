@@ -1,4 +1,4 @@
-const main = document.querySelector('main')
+const main = document.querySelector(`main`)
 const operations = document.getElementById('input')
 const resInput = document.getElementById('result')
 const root = document.querySelector(':root')
